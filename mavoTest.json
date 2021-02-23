@@ -1,4 +1,9 @@
 {
 	"firstName": "Murray",
-	"lastName": "Inman"
+	"lastName": "Inman",
+	"person": [
+		{
+			"firstName": "M"
+		}
+	]
 }
